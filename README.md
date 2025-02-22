@@ -47,3 +47,6 @@ I love thrilling action movies set in space, with a comedic twist.
 
 ## Demo
 A video demonstration of the recommendation system is available in [demo.md](demo.md).
+
+## Salary Expectation:
+I am looking for $20–25 per hour, but my primary goal is to gain valuable learning experience. Salary is secondary, and I am open to accepting the minimum offered, as long as I have the opportunity to grow and contribute effectively.
