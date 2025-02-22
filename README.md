@@ -45,3 +45,5 @@ I love thrilling action movies set in space, with a comedic twist.
 | 4    | Aloha           | 0.385455           |
 | 5    | Superman: Unbound	        | 0.385011           |
 
+## Demo
+A video demonstration of the recommendation system is available in [demo.md](demo.md).
